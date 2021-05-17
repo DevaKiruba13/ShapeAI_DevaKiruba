@@ -1,7 +1,5 @@
 
 
-
-
 # SHAPEAI PYTHON AND DEEP LEARNING BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
@@ -30,3 +28,4 @@ be</a>
 "https://github.com/shapeai">GitHub</a>
 
 
+[Deva_kiruba13.zip](https://github.com/DevaKiruba13/ShapeAI_DevaKiruba/files/6495244/Deva_kiruba13.zip)
